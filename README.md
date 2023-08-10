@@ -99,11 +99,9 @@ Logic:
     - loop again for next line.
 
 More dubious "thinking":
-    The star is vertically symmetrical 
-      - Therefore the unique lines of data needed is about half 
-        the number of displayed lines.
-      - Thence a set of loops forward and then back can iterate through 
-        the series of data.
+    - The star is vertically symmetrical 
+      - Therefore the unique lines of data needed is about half the number of displayed lines.
+      - Thence a set of loops forward and then back can iterate through the series of data.
 
     Not every line is unique.  There are several duplicates.
       - Therefore a lookup ID could point to each lines data.
