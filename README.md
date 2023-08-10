@@ -11,6 +11,8 @@ Generate this shape on screen:
 
 Some random acts of hackery below solve the problem conventionally which could work on a wide variety of computers to unconventional methods specific to the Atari.
 
+---
+
 Lowest common denominator in BASIC:
 
 	100 PRINT "    *       *    "
