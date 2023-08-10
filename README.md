@@ -87,16 +87,16 @@ Each line:
  - One imaginary bit per line to be resolved by logic.
 
 Logic:
-    For each line on screen
-        Walk through the bits in byte_0 and then byte_1 %10000000 to %00000001
+- For each line on screen
+    - Walk through the bits in byte_0 and then byte_1 %10000000 to %00000001
           - %1, print "*" 
           - %0, print " " 
-        At the end of each line, If byte is negative Then
-            finish with an extra "*"
-        ELSE
-            finish with an extra " "
-        print end of line
-    loop again for next line.
+        - At the end of each line, If byte is negative Then
+            - finish with an extra "*"
+        - ELSE
+            - finish with an extra " "
+        - print end of line
+    - loop again for next line.
 
 More dubious "thinking":
     The star is vertically symmetrical 
