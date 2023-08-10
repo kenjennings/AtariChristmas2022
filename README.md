@@ -5,23 +5,7 @@ https://logiker.com/Vintage-Computing-Christmas-Challenge-2022
 
 Generate this shape on screen:
 
- - "    *       *    "
- - "    **     **    "
- - "    ***   ***    "
- - "    **** ****    "
- - "*****************"
- - " *************** "
- - "  *************  "
- - "   ***********   "
- - "    *********    "
- - "   ***********   "
- - "  *************  "
- - " *************** "
- - "*****************"
- - "    **** ****    "
- - "    ***   ***    "
- - "    **     **    "
- - "    *       *    "
+[![VCCC2022](https://raw.githubusercontent.com/kenjennings/AtariChristmas2022/master/VCCC2022illustration.png)](https://github.com/kenjennings/AtariChristmas2022/blob/main/README.md "VCCC2022") 
  
 ---
 
