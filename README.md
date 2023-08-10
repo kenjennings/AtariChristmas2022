@@ -104,12 +104,12 @@ More dubious "thinking":
     - Thence a set of loops forward and then back can iterate through the series of data.
 
 Not every line is unique.  There are several duplicates.
-      - Therefore a lookup ID could point to each lines data.
-      - Thence more lines of data can be removed.
+- Therefore a lookup ID could point to each lines data.
+- Thence more lines of data can be removed.
 
 There are less than 16 unique strings.
-      - Enumerating a lookup ID requires only a nybble of data
-      - Therefore one byte is needed for two lookup IDs per line. 
+- Enumerating a lookup ID requires only a nybble of data
+- Therefore one byte is needed for two lookup IDs per line. 
 
 ---
 
